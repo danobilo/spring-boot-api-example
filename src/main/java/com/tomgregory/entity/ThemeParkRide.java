@@ -24,6 +24,7 @@ public class ThemeParkRide {
   private String description;
   private int thrillFactor;
   private int vomitFactor;
+  private int cost;
 
   public ThemeParkRide(String name, String description, int thrillFactor, int vomitFactor) {
     this.name = name;
